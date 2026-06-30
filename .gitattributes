@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+D:/DATA/farhan[[:space:]]college[[:space:]]stuff[[:space:]]sem[[:space:]]4/Computer[[:space:]]Vision[[:space:]]LEC/Blackjack.zip filter=lfs diff=lfs merge=lfs -text
